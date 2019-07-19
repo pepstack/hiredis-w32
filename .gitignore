@@ -1,0 +1,8 @@
+*.dSYM
+*.user
+*.exe
+*.sdf
+*.suo
+
+build/
+target/
