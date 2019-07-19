@@ -17,11 +17,6 @@
 #pragma comment(lib, "hiredis.lib")
 #pragma comment(lib, "Win32_Interop.lib")
 
-
-// Need to link with Ws2_32.lib
-#pragma comment(lib, "ws2_32.lib")
-
-
 int main()
 {
 	unsigned int j;
